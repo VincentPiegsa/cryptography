@@ -1,2 +1,2 @@
-# cryptography
-Basic cryptography algorithms implemented in Java.
+## Introduction
+Basic cryptography algorithms implemented and visualized in Java.
